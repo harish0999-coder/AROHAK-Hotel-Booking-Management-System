@@ -1,0 +1,102 @@
+[SECTION: Hotel Overview]
+Hotel Name: The Meridian Grand Mumbai
+Hotel ID: HGMUM001
+Address: 18 Marine View Road, Nariman Point, Mumbai, Maharashtra 400021
+Contact Number: +91 22 4567 8900
+Email: reservations@meridiangrand.example
+Website: www.meridiangrand.example
+Check-in: 2:00 PM
+Check-out: 12:00 PM
+Reception: Open 24 hours
+Languages Supported at Reception: English, Hindi, Marathi
+
+[SECTION: Check-in Policy]
+Standard check-in time is 2:00 PM.
+Guests must provide a valid government-issued photo ID at check-in.
+The name on the booking should match the guest's identification document.
+Early check-in is subject to room availability and is not guaranteed.
+Early check-in before 10:00 AM may incur a charge of INR 1,500, subject to availability.
+
+[SECTION: Check-out Policy]
+Standard check-out time is 12:00 PM.
+Late check-out until 2:00 PM is subject to availability and may be complimentary for selected room categories.
+Late check-out after 2:00 PM and before 6:00 PM is charged at 50% of the applicable nightly room rate.
+Check-out after 6:00 PM is charged at the full applicable nightly room rate.
+
+[SECTION: Guest and Occupancy Policy]
+Maximum occupancy depends on the room category.
+Children below 6 years can stay in an existing bed at no additional room charge.
+An extra bed is available only for selected room categories and must be requested in advance.
+The maximum number of occupants must not exceed the room's stated capacity.
+
+[SECTION: Cancellation and Modification Policy]
+A customer can directly cancel a booking until 24 hours before the scheduled check-in date.
+For a booking with check-in on 20 September, direct cancellation is available until 19 September.
+Cancellation requests submitted after the direct-cancellation deadline require staff review.
+Approved cancellation requests change the booking status to CANCELLED.
+Rejected cancellation requests leave the booking active/confirmed.
+A cancelled booking cannot be cancelled again.
+Date modifications are subject to room availability and may require staff approval.
+The hotel does not guarantee availability after a modification request until the change is confirmed.
+
+[SECTION: Room Categories]
+Deluxe King: capacity 2 guests, price INR 8,500 per night. King bed, city view, work desk.
+Deluxe Twin: capacity 2 guests, price INR 8,500 per night. Two twin beds, city view, work desk.
+Premier Sea View: capacity 3 guests, price INR 12,500 per night. King bed, sea view, sofa chair.
+Executive Suite: capacity 3 guests, price INR 18,000 per night. Bedroom, living area, sea view.
+Family Suite: capacity 4 guests, price INR 22,000 per night. Two bedrooms, living area, dining table.
+
+[SECTION: Room Amenities]
+All room categories include: complimentary Wi-Fi, air conditioning, smart television with local and international channels, electric kettle and tea/coffee setup, in-room safe, hair dryer, mini refrigerator, complimentary bottled water (2 bottles per night), daily housekeeping.
+Executive Suite and Family Suite additionally include: separate living area, bathrobe and slippers, premium bathroom amenities, evening turndown service.
+
+[SECTION: Hotel Facilities]
+Restaurant - Harbour Table: Ground floor, open 6:30 AM-11:00 PM. Breakfast is served 6:30 AM-10:30 AM.
+Rooftop Lounge - Skyline 18: 18th floor, open 5:00 PM-12:00 AM. Entry is restricted to guests aged 21 and above after 8:00 PM.
+Fitness Centre: 3rd floor, open 24 hours for hotel guests.
+Swimming Pool: 4th floor, open 6:00 AM-9:00 PM. Children below 12 must be accompanied by an adult.
+Business Centre: 2nd floor, open 7:00 AM-10:00 PM.
+Spa: 4th floor, open 10:00 AM-9:00 PM. Advance appointments are recommended.
+
+[SECTION: Parking and Transportation]
+Basement parking is available for hotel guests.
+Parking is complimentary for registered hotel guests.
+Parking spaces are subject to availability and cannot be reserved in advance.
+The hotel is approximately 25 km from Chhatrapati Shivaji Maharaj International Airport, depending on traffic.
+Airport transfers can be arranged through the concierge at an additional charge.
+Airport transfer requests should ideally be submitted at least 6 hours before pickup.
+
+[SECTION: Food and Beverage]
+Breakfast buffet is available at Harbour Table from 6:30 AM to 10:30 AM.
+Breakfast is included in selected room packages only; guests should check their booking details.
+24-hour in-room dining is available.
+Vegetarian, vegan, Jain, and selected allergy-sensitive meal options are available on request.
+Guests should inform the restaurant about serious food allergies before ordering.
+
+[SECTION: Wi-Fi and Connectivity]
+Complimentary Wi-Fi is available throughout guest rooms and common areas.
+The guest Wi-Fi network is named MeridianGuest.
+Guests receive the Wi-Fi access details at check-in.
+For connectivity problems, guests can contact reception or the IT support desk.
+
+[SECTION: Accessibility]
+Accessible rooms are available in selected room categories.
+The hotel has wheelchair-accessible public areas and elevators.
+Guests requiring an accessible room should mention the requirement while booking.
+Accessibility requests are subject to room availability and should be confirmed with the hotel.
+
+[SECTION: Frequently Asked Questions]
+Q: What time is check-in? A: Standard check-in is at 2:00 PM.
+Q: What time is check-out? A: Standard check-out is at 12:00 PM.
+Q: Is Wi-Fi free? A: Yes. Complimentary Wi-Fi is available throughout the hotel.
+Q: Does the hotel have parking? A: Yes. Basement parking is available and complimentary for registered hotel guests, subject to availability.
+Q: Can I cancel my booking? A: Direct cancellation is available until 24 hours before check-in. Later cancellation requests require staff review.
+Q: Is breakfast included? A: Breakfast is included only in selected room packages. Guests should check their booking details.
+Q: Does the hotel have a swimming pool? A: Yes. The pool is on the 4th floor and operates from 6:00 AM to 9:00 PM.
+Q: Is the gym open 24 hours? A: Yes. The fitness centre on the 3rd floor is open 24 hours for hotel guests.
+Q: Can I request early check-in? A: Yes, but it is subject to availability. Early check-in before 10:00 AM may incur a charge of INR 1,500.
+Q: Can I add an extra bed? A: Extra beds are available only for selected room categories and must be requested in advance.
+Q: Does the hotel provide airport transfers? A: Yes. Airport transfers can be arranged through the concierge for an additional charge.
+Q: Can four guests stay in a Deluxe King room? A: No. The Deluxe King room has a maximum capacity of 2 guests.
+Q: Which room is suitable for four guests? A: The Family Suite has a maximum capacity of 4 guests.
+Q: What should the chatbot do if information is not in this document? A: It should state that the information is not available in the provided hotel document rather than inventing an answer.
